@@ -6,7 +6,7 @@
     background-position: center; /* 图片居中 */
     background-attachment: fixed; /* 背景固定，不随滚动变化 */
   }
-  /* 可选：为了让文字更清晰，设置文字颜色和背景半透明遮罩 */
+  /* 可选：为了让文字更清晰，设置文字颜色和背景半透明遮罩 */ 
   .content {
     background-color: rgba(255, 255, 255, 0.8); /* 白色半透明背景 */
     padding: 20px;
